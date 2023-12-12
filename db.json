@@ -1,11 +1,4 @@
 {
-    "details": [
-      {
-        "companyName": "ramayan",
-        "subdomain": "ram",
-        "id": 1
-      }
-    ],
     "Employee": [
     {
       "name": "Rachel green",
